@@ -1,0 +1,7 @@
+CompileFlags:
+  Add:
+    - -I"null\include"
+  Remove: []
+  CompilationDatabase: ./build/Target 1
+Diagnostics:
+  Suppress: "*"
